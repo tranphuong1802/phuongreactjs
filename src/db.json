@@ -1,0 +1,142 @@
+{
+  "products": [
+    {
+      "name": "Leather Bow Mules",
+      "categoryId": "2",
+      "price": "700000",
+      "content": "Leather mules with gold embellishment and bow detail that adds a dainty touch to your looks. It goes well with jeans and cropped pants.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-50879.appspot.com/o/images%2FG1.jpg?alt=media&token=82a57ee2-c24a-4265-a9cc-ffc8b0cb20c1",
+      "id": 21
+    },
+    {
+      "name": "Satin Bow Mules",
+      "categoryId": "2",
+      "price": "700000",
+      "content": "Satin mules with gold embellishment and bow detail that adds a dainty touch to your looks. It goes well with jeans and cropped pants.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-50879.appspot.com/o/images%2FG2.jpg?alt=media&token=dd4d7630-9404-4fa3-8e7e-f418300743fe",
+      "id": 22
+    },
+    {
+      "name": "Velcro Slides",
+      "categoryId": "2",
+      "price": "7000000",
+      "content": "Stride with style in these sliders, with adjustable velcro straps to achieve a snug fit. Get a matching pair with your family from our collection.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-50879.appspot.com/o/images%2FG3.jpg?alt=media&token=1b13fc53-270b-4c16-981a-22ae69205f78",
+      "id": 23
+    },
+    {
+      "name": "ChunkySneakers",
+      "categoryId": "3",
+      "price": "800000",
+      "content": "An advanced sporty style suede and mesh sneaker with stitching and overlaying accents. They make a statement to your casual looks. Pair with jeans or joggers.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-50879.appspot.com/o/images%2Fg4.jpg?alt=media&token=b4d1a846-3221-4c66-8a8a-6b2a395103e2",
+      "id": 24
+    },
+    {
+      "name": "Casual Slides",
+      "categoryId": "3",
+      "price": "9000000",
+      "content": "Refine your weekend look with this pair. Create a utilitarian look when matched with trousers and a collared top. The rubber soles give more grip.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-50879.appspot.com/o/images%2FG5.jpg?alt=media&token=ed1795d2-cff3-434b-968c-76f7e9b1a380",
+      "id": 25
+    },
+    {
+      "name": "Children Branded Shoes",
+      "categoryId": "4",
+      "price": "650000",
+      "content": "We are able to develop at least 3 designs each week. We usually cooperate with a lot of competitive factories in China. Based on this, we could ensure you get the most fashionable designs and keep you on the top of the market.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-50879.appspot.com/o/images%2FG6.jpg?alt=media&token=6b8a3d68-a111-4fd0-b45d-fedc93ddb857",
+      "id": 26
+    },
+    {
+      "name": "New Arrival Boy Shoes",
+      "categoryId": "4",
+      "price": "7000000",
+      "content": "We are able to develop at least 3 designs each week. We usually cooperate with a lot of competitive factories in China. Based on this, we could ensure you get the most fashionable designs and keep you on the top of the market.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-50879.appspot.com/o/images%2FG7.jpg?alt=media&token=1aa60dd2-d6d4-4688-945b-6cdc49617f03",
+      "id": 27
+    },
+    {
+      "name": "hehehe",
+      "categoryId": "2",
+      "price": "70000",
+      "content": "zsdxfcvghbjnk",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-50879.appspot.com/o/images%2FG8.jpg?alt=media&token=0da145d1-d489-402d-8514-2228da2d0ec7",
+      "id": 28
+    }
+  ],
+  "category": [
+    {
+      "name": "WOMEN",
+      "id": 2
+    },
+    {
+      "name": "MEN",
+      "id": 3
+    },
+    {
+      "name": "CHILDREN",
+      "id": 4
+    },
+    {
+      "name": "hehe",
+      "id": 5
+    }
+  ],
+  "categoryPost": [
+    {
+      "name": "FASHION NEWS",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-50879.appspot.com/o/images%2FG8.jpg?alt=media&token=ed5eaeae-c916-4bfa-937e-45d802504410",
+      "id": 4
+    },
+    {
+      "name": "FOOTBALL news",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-50879.appspot.com/o/images%2FG9.jpg?alt=media&token=b7e2a65b-ce3c-41d3-a0bf-cebf0dd7ed02",
+      "id": 5
+    }
+  ],
+  "post": [
+    {
+      "title": "Even the all-powerful",
+      "id_catePost": "4",
+      "content": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-50879.appspot.com/o/images%2FG8.jpg?alt=media&token=18355880-a9d7-4c19-a04c-cd5a5a3c2dcc",
+      "id": 6
+    },
+    {
+      "title": "Football results today ",
+      "id_catePost": "5",
+      "content": "Update football results today (August 12), in which it is worth noting that the last two pairs of the Europa League quarter-finals.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-50879.appspot.com/o/images%2FG9.jpg?alt=media&token=1899db5d-ec24-441a-88c8-42d6c403f8f7",
+      "id": 9
+    },
+    {
+      "title": "Football results today",
+      "id_catePost": "5",
+      "content": "Update football results today (August 12), in which it is worth noting that the last two pairs of the Europa League quarter-finals.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-50879.appspot.com/o/images%2Fg10.jpg?alt=media&token=67df627b-331b-4cb8-976a-3d29263187dd",
+      "id": 10
+    }
+  ],
+  "contact": [
+    {
+      "id": 1,
+      "name": "tranphuong",
+      "email": "tranphuong1822@gmail.com",
+      "address": "nam định",
+      "message": "abcbabcbacbbac"
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    }
+  ]
+}
